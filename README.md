@@ -1,4 +1,3 @@
-Certainly! Below is a sample README file for your Solidity smart contract:
 
 ---
 
@@ -58,7 +57,7 @@ function burn (address _address, uint _value) public {
 
 ## License
 
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
 
 ## Getting Started
 
